@@ -10,11 +10,11 @@ body {
 .logo-title {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 5px;
 }
 
 .logo {
-  height: 40px;
+  height: 60px;
   width: auto;
   border-radius: 8px;
 }
