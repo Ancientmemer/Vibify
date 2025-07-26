@@ -10,13 +10,14 @@ body {
 .logo-title {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 5px;
 }
 
 .logo {
   height: 100px;
   width: auto;
-  border-radius: 8px;
+  border-radius: 2px;
 }
 
 header {
